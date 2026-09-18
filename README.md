@@ -2,7 +2,7 @@
 
 ![Category: Entity Readiness](https://img.shields.io/badge/category-Entity%20Readiness-blue) ![Status: Active](https://img.shields.io/badge/status-active-brightgreen)
 
-Validates the health of the **Atlas Entity Readiness Change Report** n8n workflow after each run. This is a read-only inspection skill — it analyzes execution results, surfaces errors and anomalies, and confirms whether a run is safe to rely on, without modifying anything in n8n.
+Validates the health of the **Entity Readiness Change Report** n8n workflow after each run. This is a read-only inspection skill — it analyzes execution results, surfaces errors and anomalies, and confirms whether a run is safe to rely on, without modifying anything in n8n.
 
 ---
 
@@ -57,7 +57,7 @@ Use this skill when you hear:
 
 ## Category
 
-**Entity Readiness** — Atlas HXM internal automation skill for validating weekly country-readiness workflow execution health.
+**Entity Readiness** — Enterprise Platform internal automation skill for validating weekly country-readiness workflow execution health.
 
 Related skill: [`entity-readiness-baseline-analyst`](https://github.com/diamitani) — analyzes the baseline data table output, not the execution itself.
 
@@ -66,7 +66,7 @@ Related skill: [`entity-readiness-baseline-analyst`](https://github.com/diamitan
 ## Author
 
 **Patrick Diamitani**
-GTM AI & Automation Manager, Atlas HXM
+GTM AI & Automation Manager, Enterprise Platform
 [linkedin.com/in/diamitani](https://linkedin.com/in/diamitani)
 
 ---

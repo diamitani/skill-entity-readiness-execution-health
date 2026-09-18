@@ -1,11 +1,12 @@
 ---
 name: entity-readiness-execution-health
-description: Inspect the Atlas Entity Readiness Change Report n8n workflow for execution success, errors, Onspring pull health, delivery completion, baseline writes, and activation state. Use for read-only post-run validation, error triage, or confirming that this specific weekly entity-readiness report is safe to deploy.
+description: >
+  Inspect the Entity Readiness Change Report n8n workflow for execution success, errors, Onspring pull health, delivery completion, baseline writes, and activation state. Use for read-only post-run validation, error triage, or confirming that this specific weekly entity-readiness report is safe to deploy. Use this skill when working with entity readiness execution health tasks or workflows.
 ---
 
 # Entity Readiness Execution Health
 
-Use this skill only for the Atlas Entity Readiness Change Report. It is read-only: never retry, stop, activate, deactivate, create, update, or delete anything in n8n.
+Use this skill only for the Entity Readiness Change Report. It is read-only: never retry, stop, activate, deactivate, create, update, or delete anything in n8n.
 
 ## Project scope
 
